@@ -1,0 +1,7 @@
+<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EEG Analysis" Height="450" Width="800">
+    <Grid>
+        <TextBlock Text="EEG Analysis - Main Window" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>
